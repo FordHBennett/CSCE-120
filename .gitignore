@@ -1,0 +1,11 @@
+exam/*
+class_example/*
+Homework/*.out
+Homework/*.o
+Homework/*.dSYM
+Homework/*/.vscode
+Lab/*.out
+Lab/*.o
+Lab/*.dSYM
+Lab/*/.vscode
+.DS_Store
